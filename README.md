@@ -22,7 +22,7 @@ This repository showcases my professional research, security tool development, p
 - Analysis of forensic data including memory, disk images, and network traffic.
 - Network packet analysis with **Wireshark**.
 - Memory investigations using **Volatility Framework**.
-- **Repo:** [`Forensics-IR`](./Forensics-IR)
+- **Repo:** [`Forensics-IR`](https://github.com/DDMetoyer/Forensics-IR)
 
 ### 🎯 CTF Challenges & Write-ups
 - Solutions and methodologies for various CTF challenges (web, reverse engineering, cryptography, OSINT).
