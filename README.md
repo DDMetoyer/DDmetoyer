@@ -24,15 +24,16 @@ This repository showcases my professional research, security tool development, p
 - Memory investigations using **Volatility Framework**.
 - **Repo:** [`Forensics-IR`](https://github.com/DDMetoyer/Forensics-IR)
 
+### 🚀 Cybersecurity Automation & Scripting
+- Python, Bash, and Assembly scripting for cybersecurity tasks including reconnaissance, credential management, log analysis, and low-level system interactions.
+- Scripts for network scanning, password auditing, automated analysis, and memory forensics.
+- Assembly language projects demonstrating basic programming concepts, arithmetic operations, and interactive console applications using Visual Studio and MASM.
+- **Repo:** [`CyberSec-Scripts`](./CyberSec-Scripts)
+
 ### 🎯 CTF Challenges & Write-ups
 - Solutions and methodologies for various CTF challenges (web, reverse engineering, cryptography, OSINT).
 - Detailed explanations with PoCs.
 - **Repo:** [`CTF-Writeups`](./CTF-Writeups)
-
-### ⚙️ Assembly Language Programming
-- Assembly language projects demonstrating basic programming concepts, arithmetic operations, and system-level coding.
-- Interactive console applications and debugging using Visual Studio and MASM.
-- **Repo:** [`Assembly-Language-Projects`](./Assembly-Language-Projects)
 
 ### 📡 Software Defined Radio (SDR) Analysis
 - Exploration of radio frequency signals, spectrum analysis, and signal-to-noise ratio analysis.
@@ -55,13 +56,6 @@ This repository showcases my professional research, security tool development, p
 - Investigation of processes via Volatility plugins (`netscan`, `malfind`, `apihooks`).
 - Analysis of Remote Desktop Protocol (RDP) activities.
 - **Repo:** [`Memory-Forensics-and-Defense`](./Memory-Forensics-and-Defense)
-
-### 🐍 Python Scripting for Cybersecurity
-- Automation scripts designed for data analysis, metadata extraction, binary file parsing, and forensic analysis.
-- Web scraping and metadata extraction for cybersecurity reconnaissance.
-- Regular expressions for extraction and analysis of cybersecurity-related data (URLs, email addresses, unique strings).
-- Network-based socket programming demonstrating secure message transmission and MD5 hashing.
-- **Repo:** [`Cybersecurity-Python-Scripts`](./Cybersecurity-Python-Scripts)
 
 ### ⚖️ Cyber Ethics & Privacy Risk Management
 - Examination of ethical issues in cybersecurity including philosophical and legal implications.
