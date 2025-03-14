@@ -28,7 +28,7 @@ This repository showcases my professional research, security tool development, p
 - Python, Bash, and Assembly scripting for cybersecurity tasks including reconnaissance, credential management, log analysis, and low-level system interactions.
 - Scripts for network scanning, password auditing, automated analysis, and memory forensics.
 - Assembly language projects demonstrating basic programming concepts, arithmetic operations, and interactive console applications using Visual Studio and MASM.
-- **Repo:** [`CyberSec-Scripts`](./CyberSec-Scripts)
+- **Repo:** [`CyberSec-Scripts`](https://github.com/DDMetoyer/CyberSec-Scripts/blob/main/README.md)
 
 ### 🎯 CTF Challenges & Write-ups
 - Solutions and methodologies for various CTF challenges (web, reverse engineering, cryptography, OSINT).
