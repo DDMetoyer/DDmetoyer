@@ -10,13 +10,13 @@ This repository showcases my professional research, security tool development, p
 - Custom detection rules and queries for security events using **Elastic Kibana** and **Splunk**.
 - Detection of brute-force attacks, malware activities, and privilege escalation attempts.
 - Utilization of **Sigma** and **YARA rules** for threat hunting.
-- **Repo:** [`SIEM-Detection`](./SIEM-Detection)
+- **Repo:** [`SIEM-Detection`](https://github.com/DDMetoyer/SIEM-Detection)
 
 ### 🔗 **Penetration Testing & Exploitation**
 - Practical penetration testing labs and exploit scripting.
 - Walkthroughs for **Hack The Box**, **TryHackMe**, and other vulnerable environments.
 - Automation scripts in Python and Bash for exploitation and post-exploitation.
-- **Repo:** [`Pentesting-Labs`](./Pentesting-Labs)
+- **Repo:** [`Pentesting-Labs`](https://github.com/DDMetoyer/Pentesting-Labs)
 
 ### 🕵️‍♂️ Incident Response & Digital Forensics
 - Analysis of forensic data including memory, disk images, and network traffic.
@@ -33,34 +33,34 @@ This repository showcases my professional research, security tool development, p
 ### 🎯 CTF Challenges & Write-ups
 - Solutions and methodologies for various CTF challenges (web, reverse engineering, cryptography, OSINT).
 - Detailed explanations with PoCs.
-- **Repo:** [`CTF-Writeups`](./CTF-Writeups)
+- **Repo:** [`CTF-Writeups`](https://github.com/DDMetoyer/CTF-Writeups)
 
 ### 📡 Software Defined Radio (SDR) Analysis
 - Exploration of radio frequency signals, spectrum analysis, and signal-to-noise ratio analysis.
 - Hands-on experience with SDR tools like SDR#, Airspy, and GNU Radio.
-- **Repo:** [`SDR-Analysis-and-Research`](./SDR-Analysis-and-Research)
+- **Repo:** [`SDR-Analysis-and-Research`](https://github.com/DDMetoyer/SDR-Analysis-and-Research)
 
 ### 📶 Wireless Network Security
 - Hands-on labs covering secure access point configurations, MAC filtering, and rogue AP identification.
 - Demonstrations of wireless Denial-of-Service (DoS) attacks and reconnaissance using WiFi Pineapple.
 - Analysis of vulnerabilities in wireless management frames.
-- **Repo:** [`Wireless-Network-Security`](./Wireless-Network-Security)
+- **Repo:** [`Wireless-Network-Security`](https://github.com/DDMetoyer/Wireless-Network-Security)
 
 ### 🛠️ Network Protocol Exploitation and Defense
 - Examination of network protocol vulnerabilities including TCP/IP, ARP, UDP, and ICMP attacks.
 - Demonstrations of DoS attacks and mitigation strategies.
-- **Repo:** [`Network-Protocol-Security`](./Network-Protocol-Security)
+- **Repo:** [`Network-Protocol-Security`](https://github.com/DDMetoyer/Network-Protocol-Security)
 
 ### 🔐 Active Cyber Defense & Memory Forensics
 - Detailed memory forensic analysis to detect malicious code, injections, and suspicious network activity.
 - Investigation of processes via Volatility plugins (`netscan`, `malfind`, `apihooks`).
 - Analysis of Remote Desktop Protocol (RDP) activities.
-- **Repo:** [`Memory-Forensics-and-Defense`](./Memory-Forensics-and-Defense)
+- **Repo:** [`Memory-Forensics-and-Defense`](https://github.com/DDMetoyer/Memory-Forensics-and-Defense)
 
 ### ⚖️ Cyber Ethics & Privacy Risk Management
 - Examination of ethical issues in cybersecurity including philosophical and legal implications.
 - Risk management practices for maintaining privacy in cyber operations.
-- **Repo:** [`Cyber-Ethics-and-Policy`](./Cyber-Ethics-and-Policy)
+- **Repo:** [`Cyber-Ethics-and-Policy`](https://github.com/DDMetoyer/Cyber-Ethics-and-Policy)
 
 ## 🛠️ Tools & Technologies
 - **Penetration Testing:** Kali Linux, Burp Suite, Metasploit, Nmap
