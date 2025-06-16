@@ -18,11 +18,17 @@ This repository showcases my professional research, security tool development, p
 - Automation scripts in Python and Bash for exploitation and post-exploitation.
 - **Repo:** [`Pentesting-Labs`](https://github.com/DDMetoyer/Pentesting-Labs)
 
+### 🔍 **Cloud-Infrastructure**
+- Manual deployments (like WordPress on EC2).
+- Infrastructure provisioning.
+- Network/security configurations.
+- **Repo:** [`SIEM-Detection`](https://github.com/DDMetoyer/SIEM-Detection)
+
 ### 🕵️‍♂️ Incident Response & Digital Forensics
 - Analysis of forensic data including memory, disk images, and network traffic.
 - Network packet analysis with **Wireshark**.
 - Memory investigations using **Volatility Framework**.
-- **Repo:** [`Forensics-IR`](https://github.com/DDMetoyer/Forensics-IR)
+- **Repo:** [`Cloud-Infrastructure`](https://github.com/DDMetoyer/Cloud-Infrastructure)
 
 ### 🚀 Cybersecurity Automation & Scripting
 - Python, Bash, and Assembly scripting for cybersecurity tasks including reconnaissance, credential management, log analysis, and low-level system interactions.
