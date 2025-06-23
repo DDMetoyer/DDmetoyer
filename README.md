@@ -28,7 +28,7 @@ This repository showcases my professional research, security tool development, p
 - Analysis of forensic data including memory, disk images, and network traffic.
 - Network packet analysis with **Wireshark**.
 - Memory investigations using **Volatility Framework**.
-- **Repo:** [`Cloud-Infrastructure`](https://github.com/DDMetoyer/Cloud-Infrastructure)
+- **Repo:** [`Forensics-IR`](https://github.com/DDMetoyer/Forensics-IR)
 
 ### 🚀 Cybersecurity Automation & Scripting
 - Python, Bash, and Assembly scripting for cybersecurity tasks including reconnaissance, credential management, log analysis, and low-level system interactions.
