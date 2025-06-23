@@ -22,7 +22,7 @@ This repository showcases my professional research, security tool development, p
 - Manual deployments (like WordPress on EC2).
 - Infrastructure provisioning.
 - Network/security configurations.
-- **Repo:** [`SIEM-Detection`](https://github.com/DDMetoyer/SIEM-Detection)
+- **Repo:** [`Cloud-Infrastructure`](https://github.com/DDMetoyer/Cloud-Infrastructure)
 
 ### 🕵️‍♂️ Incident Response & Digital Forensics
 - Analysis of forensic data including memory, disk images, and network traffic.
