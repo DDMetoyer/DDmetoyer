@@ -24,7 +24,10 @@ This repository showcases my professional research, security tool development, p
 - Network/security configurations.
 - **Repo:** [`Cloud-Infrastructure`](https://github.com/DDMetoyer/Cloud-Infrastructure)
 
-### 🕵️‍♂️ Incident Response & Digital Forensics
+### 🕵️‍♂️ Incident Response, OSINT & Digital Forensics
+- Comprehensive open-source intelligence investigations using metadata, social media analysis, and government record searches across seven weeks of practical exercises.
+- Advanced analysis of domain data, IP geolocation, deception theory, and deepfake verification using FaceFusion and forensic imaging tools.
+- Application of OSINT tradecraft, metadata extraction, and counter-deception frameworks to real-world intelligence targets.
 - Analysis of forensic data including memory, disk images, and network traffic.
 - Network packet analysis with **Wireshark**.
 - Memory investigations using **Volatility Framework**.
