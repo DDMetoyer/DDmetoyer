@@ -84,4 +84,3 @@ This repository showcases my professional research, security tool development, p
 ## 📬 Connect With Me
 - **GitHub:** [github.com/DDMetoyer](https://github.com/DDMetoyer)
 - **LinkedIn:** [linkedin.com/in/devantedmetoyer](https://linkedin.com/in/devantedmetoyer)
-- **Email:** devantemetoyer@gmail.com
