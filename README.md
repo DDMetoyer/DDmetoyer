@@ -6,6 +6,12 @@ This repository showcases my professional research, security tool development, p
 
 ## 📌 Featured Projects
 
+### 🦠 Malware Analysis & Software Supply Chain Security
+- Analyzed malicious and suspicious npm packages involving encrypted payload retrieval, code obfuscation, dynamic execution, blockchain-based command delivery, and npm lifecycle abuse.
+- Identified indicators of compromise and high-risk execution patterns involving `vm.Script`, `eval`, `child_process`, remote downloads, AES decryption, and `postinstall` scripts.
+- Developed detection recommendations using YARA, OpenGrep, package metadata analysis, and CI/CD pipeline controls.
+- **Repo:** [`Software-Supply-Chain-Malware-Analysis`](https://github.com/DDMetoyer/Software-Supply-Chain-Malware-Analysis)
+
 ### 🔍 **SIEM Use Cases & Threat Detection**
 - Custom detection rules and queries for security events using **Elastic Kibana** and **Splunk**.
 - Detection of brute-force attacks, malware activities, and privilege escalation attempts.
